@@ -18,7 +18,7 @@ html {
   /* 2 */
   -webkit-text-size-adjust: 100%;
   /* 3 */
-  background: #171717;
+  background: #f5ebeb;
   color: #666;
 }
 /*
@@ -79,7 +79,7 @@ strong {
   color: #f0506e;
   white-space: nowrap;
   padding: 2px 6px;
-  background: #f8f8f8;
+  background: #242323;
 }
 /*
  * Emphasize
